@@ -1,2 +1,2 @@
 #!/bin/bash
-c/tmp/file_0.html
+ccp -rua *.html ../'
